@@ -40,8 +40,12 @@ Currently accelerating my workflow with AI-assisted tools (Cursor, Claude Code, 
 | Project | Description | Stack |
 |---|---|---|
 | **[2gethers](https://play.google.com/store/apps/details?id=com.fndanmobile.twogather)** 🟢 Live | Personal finance app for couples — multi-currency logic, real-time sync · [2gethers.app](https://2gethers.app) | Flutter, Firebase, Dart |
-| **Promoter Squad** | Offline-first digital roulette for 100+ B2B retail POS, zero internet required | Flutter, Isar, Dart |
-| **Pangeo** | Social platform with advanced Google Maps geolocation tracking | Flutter, Maps SDK |
+| **Promoter Squad** Private  | Offline-first digital roulette for 100+ B2B retail POS, zero internet required | Flutter, Isar, Dart |
+| **Pangeo** Private | Social platform with advanced Google Maps geolocation tracking | Flutter, Maps SDK |
+| **ReadStreak** 🚧 Private In Development | Gamified book reader with streak tracking, achievements and reward systems to build consistent reading habits — targeting Play Store release | Flutter, Dart, Firebase |
+
+> 🔒 Some repositories are private due to client confidentiality agreements.
+> Work samples and technical details available upon request.
 
 ---
 
