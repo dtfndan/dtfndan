@@ -2,7 +2,7 @@
 
 # Oscar Fanfan
 ### Flutter Engineer · Dart · Cross-Platform Mobile
-### Open to International Remote Opportunities 🌎
+### Open to International Remote Opportunities 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oscar-fanfan-94056a268/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:rogerdt05@gmail.com)
@@ -19,7 +19,7 @@ Currently accelerating my workflow with AI-assisted tools (Cursor, Claude Code, 
 
 ---
 
-## 📱 Mobile (Primary Stack)
+## 📱 Mobile (Stack)
 
 - **Flutter & Dart** — Cross-platform iOS/Android, offline-first architecture, complex state sync
 - **Isar DB** — Local persistence and sync logic for B2B retail environments  
@@ -27,7 +27,7 @@ Currently accelerating my workflow with AI-assisted tools (Cursor, Claude Code, 
 - **Firebase** — Auth, Firestore real-time sync, multi-user collaboration
 - **Google Play Console** — End-to-end production deployment & ASO
 
-## 💻 Web & Backend (Supporting Stack)
+## 💻 Web & Backend (Stack)
 
 - **TypeScript / JavaScript** — React.js, Node.js, REST APIs
 - **Databases** — PostgreSQL, Firebase, Isar
@@ -35,7 +35,7 @@ Currently accelerating my workflow with AI-assisted tools (Cursor, Claude Code, 
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -45,7 +45,7 @@ Currently accelerating my workflow with AI-assisted tools (Cursor, Claude Code, 
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
