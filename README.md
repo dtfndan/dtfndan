@@ -15,8 +15,6 @@
 
 I build production-grade Flutter applications — from a finance app for couples live on the Play Store, to an offline-first retail system running on 100+ points of sale without internet access. I own the full lifecycle: architecture, state management, deployment, and backend integration.
 
-Currently accelerating my workflow with AI-assisted tools (Cursor, Claude Code, Ollama).
-
 ---
 
 ## 📱 Mobile (Stack)
